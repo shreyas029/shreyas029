@@ -28,8 +28,13 @@
 ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
 ![Terraform](https://img.shields.io/badge/Terraform-purple?logo=terraform)
 ![Linux](https://img.shields.io/badge/-Linux-yellow?style=flat-square&logo=linux&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-green?logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-blue?logo=powershell&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-black?logo=ansible&logoColor=white)
 
 ---
+## Quote to Live by: 
+*"You miss 100% of the shots you don't take"*
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shreyas029&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
