@@ -1,7 +1,7 @@
 # Hello, I'm Shreyas Srinivasa.
 ## About Me:
 
-**MSc Cybersecurity** | **Ethical Hacker** | **Cloud Engineer** | **Tech Enthusiast** <br>
+**MSc Cybersecurity** | **AWS Community Builder** | **Ethical Hacker** | **Cloud Engineer** | **Tech Enthusiast** <br>
 🚀 I'm a seasoned **Cyber Security Professional** <br>
 📫 How to reach me: **shreyassrinivasa297@gmail.com** <br>
 💡 Let's discuss **Cloud, Cyber Security, VHDL and Verilog** <br>
